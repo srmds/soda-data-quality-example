@@ -1,0 +1,4 @@
+# Checks for basic validations
+checks for patients:
+  - row_count between 10 and 12352
+  - missing_count(BIRTHDATE) = 0

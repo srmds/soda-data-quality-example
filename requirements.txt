@@ -1,0 +1,4 @@
+pyspark==3.1.1
+soda-spark
+soda-core-spark-df
+loguru
