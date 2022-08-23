@@ -1,8 +1,8 @@
-# SODA - data quality example
+# SODA - data quality example (WIP)
 
 This repo contains an example of how to utilize SODACL for data quality checks, more info: https://docs.soda.io/soda/core-interactive-demo.html
 
-
+Note that this example is a Work In Progress (WIP)
 ## Setup and configure
 
 ### Clone the repo
