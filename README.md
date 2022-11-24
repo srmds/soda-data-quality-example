@@ -3,6 +3,7 @@
 This repo contains an example of how to utilize SODACL for data quality checks, more info: https://docs.soda.io/soda/core-interactive-demo.html
 
 Note that this example is a Work In Progress (WIP)
+
 ## Setup and configure
 
 ### Clone the repo
@@ -25,10 +26,14 @@ $ python -m venv .venv && source .venv/bin/activate
 
 ### Install  packages
 
-Update pip, this needed to properly install the artifacts authentication packages, which will be done be up next:
+Update pip, this needed to properly install the packages, which will be done be up next:
 
 ```shell
 $ python -m pip install --upgrade pip
+```
+
+```shell
+$ pip install -r requirements.txt
 ```
 
 ### Run the example
